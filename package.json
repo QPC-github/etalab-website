@@ -16,7 +16,7 @@
     "@emotion/styled": "^11.10.5",
     "@mui/material": "^5.10.15",
     "i18nifty": "^1.4.0",
-    "next": "13.0.3",
+    "next": "13.5.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tss-react": "^4.4.4"
